@@ -14,7 +14,7 @@ if (!file_exists("./work/config/mysqldumper.php"))
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="Author" content="Daniel Schlichtholz">
+<meta name="Author" content="Daniel Schlichtholz Test">
 <title>MySQLDumper</title>
 </head>
 
